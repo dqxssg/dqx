@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/QuestionBank25_32/app/src/main/res/drawable/bg_shape.xml" value="0.219" />
+        <entry key="..\:/QuestionBank25_32/app/src/main/res/drawable/btn_shape.xml" value="0.219" />
+        <entry key="..\:/QuestionBank25_32/app/src/main/res/drawable/et_shape.xml" value="0.219" />
+        <entry key="..\:/QuestionBank25_32/app/src/main/res/drawable/ic_launcher_background.xml" value="0.219" />
+        <entry key="..\:/QuestionBank25_32/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/QuestionBank25_32/app/src/main/res/layout/nav_head.xml" value="0.3268641470888662" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_data_analysis.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_feedback.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_life_assistant.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_metro_map.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_metro_query.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_my_feed.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_play.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_query_bus.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_query_road.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_real_time.xml" value="0.15806159420289856" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/activity_vehicle_violation.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/bus_item_fu.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/bus_item_zi.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/cfwz_fragment.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/feed_item.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/gz_fragment.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/metro_item_fu.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/metro_item_zi.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/pm_fragment.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/title_head.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/title_head31.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/wd_fragment.xml" value="0.2046875" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/layout/wzcs_fragment.xml" value="0.2957427536231884" />
+        <entry key="..\:/java/QuestionBank25_32/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
